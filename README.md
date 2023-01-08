@@ -2,4 +2,4 @@
 
 ### Content
 
-Short puzzle to be cracked for a friend's byrthday.
+Short puzzle to be cracked for a friend's birthday.
